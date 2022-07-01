@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/riskalyze/deployment-actions/compare/v3.0.0...v3.1.0) (2022-07-01)
+
+
+### Features
+
+* Add terraform action ([438038b](https://github.com/riskalyze/deployment-actions/commit/438038b06d1940175f0bde0c1eba826997d6081e))
+
 ## [3.0.0](https://github.com/riskalyze/deployment-actions/compare/v2.3.2...v3.0.0) (2022-06-17)
 
 
